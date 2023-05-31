@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.card{
+    height: 60%;
+    width: 30%;
+    background-color: azure;
+    padding: 1rem 1rem;
+
+    
+    
+}
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: gray;
+    
+   
+}
+img{
+    width: 10rem;
+    
+}
